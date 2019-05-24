@@ -1,0 +1,2 @@
+# bless.liquid
+pagina bless
